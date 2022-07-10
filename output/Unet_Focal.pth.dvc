@@ -1,0 +1,4 @@
+outs:
+- md5: 0afe4f8e9273ae4f74132ba59dbf986e
+  size: 53323071
+  path: Unet_Focal.pth
