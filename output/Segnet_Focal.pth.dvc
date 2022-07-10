@@ -1,0 +1,4 @@
+outs:
+- md5: 4b8702c92b3e5e89d753f5cdbde53ef7
+  size: 47003751
+  path: Segnet_Focal.pth
