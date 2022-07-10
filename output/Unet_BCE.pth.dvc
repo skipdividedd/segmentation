@@ -1,0 +1,4 @@
+outs:
+- md5: 2e28173f79abd762644dc4e44a93f87a
+  size: 53323071
+  path: Unet_BCE.pth
