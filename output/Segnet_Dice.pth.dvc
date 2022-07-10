@@ -1,0 +1,4 @@
+outs:
+- md5: ef2e8e32df24c18c0e704cb43f3e5424
+  size: 47003751
+  path: Segnet_Dice.pth
