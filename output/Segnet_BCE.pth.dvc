@@ -1,0 +1,4 @@
+outs:
+- md5: cbc9c9588bddc53735d8d1830473569e
+  size: 47003751
+  path: Segnet_BCE.pth
