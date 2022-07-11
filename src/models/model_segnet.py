@@ -1,6 +1,4 @@
 import torch.nn as nn
-from matplotlib import rcParams
-rcParams['figure.figsize'] = (15,4)
 
 
 class SegNet(nn.Module):
