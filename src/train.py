@@ -9,8 +9,8 @@ from inference import score_model
 from dataset import Dataset
 from loss import BCEWithLogits, dice_loss, focal_loss
 
-from models.model_segnet import SegNet
-from models.model_unet import UNet
+from models.segnet import SegNet
+from models.unet import UNet
 
 data_tr, data_val, data_ts = Dataset()
 
